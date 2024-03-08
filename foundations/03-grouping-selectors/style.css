@@ -1,0 +1,13 @@
+.vintage,
+.bumblebee{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+.vintage {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.bumblebee {
+    background-color: yellow;
+}
